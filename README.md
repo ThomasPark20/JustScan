@@ -43,3 +43,8 @@ OUTPUT:
   "country": "CA"
 }
 ```
+
+# TODO
+Socket Fail message pops up occasionally, no issue in functionality
+UDP support
+
